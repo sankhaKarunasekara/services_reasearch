@@ -24,6 +24,8 @@ mm.. can sanity be use as a comments plugin?. just an idea.
 
 ### [commento](https://github.com/adtac/commento)
   * nice alternative to disque we have to host it manually. still good alternative. 
-  
+
+### talk(https://coralproject.net/talk/)
+
 ### concerns
 *dealing with spaming
