@@ -28,5 +28,7 @@ mm.. can sanity be use as a comments plugin?. just an idea.
 ### talk
  * [talk](https://coralproject.net/talk/)
 
+wallstreet gernal use it. don't know how it works. but can be host own server. 
+
 ### concerns
 *dealing with spaming
